@@ -1,0 +1,15 @@
+{
+  "sites": [
+    {
+      "url": "https://www.google.com",
+      "saveTo": "assets/google/google.png",
+      "options": {
+        "windowSize": {
+          "width": 1440,
+          "height": 900
+        },
+        "renderDelay": 2000
+      }
+    }
+  ]
+}

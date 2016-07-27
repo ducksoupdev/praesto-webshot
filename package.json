@@ -1,0 +1,24 @@
+{
+  "name": "praesto-webshot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducksoupdev/praesto-webshot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducksoupdev/praesto-webshot/issues"
+  },
+  "homepage": "https://github.com/ducksoupdev/praesto-webshot#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "phantomjs-prebuilt": "^2.1.8",
+    "webshot": "^0.18.0"
+  }
+}
